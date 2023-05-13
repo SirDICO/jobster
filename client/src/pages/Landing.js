@@ -12,11 +12,11 @@ const Landing = () => {
         {/* info */}
         <div className='info'>
           <h1>
-            job <span>tracking</span> app
+           A DICO,  job <span>tracking</span> app
           </h1>
           <p>
        
-       A simple applications that helps a company to keep track of Job offers both interview, declined, pending Jobs and users involved. the application uses Jwt authentication to authenticate and authorize user access to it features.
+      Jobster, helps a company to keep track of Job offers both interview, declined, pending Jobs and users involved. the application uses Jwt authentication to authenticate and authorize user access to it features.
           </p>
           <Link to='/register' className='btn btn-hero'>
             Login/Register
