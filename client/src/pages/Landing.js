@@ -15,9 +15,8 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-            Crucifix narwhal street art asymmetrical, humblebrag tote bag pop-up
-            fixie raclette taxidermy craft beer. Brunch bitters synth, VHS
-            crucifix heirloom meggings bicycle rights.
+       
+       A simple applications that helps a company to keep track of Job offers both interview, declined, pending Jobs and users involved. the application uses Jwt authentication to authenticate and authorize user access to it features.
           </p>
           <Link to='/register' className='btn btn-hero'>
             Login/Register
